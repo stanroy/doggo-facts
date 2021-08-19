@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/factListFragment">
+
+    <fragment
+        android:id="@+id/factListFragment"
+        android:name="com.stanroy.doggofacts.view.FactListFragment"
+        android:label="fragment_fact_list"
+        tools:layout="@layout/fragment_fact_list">
+        <action
+            android:id="@+id/action_factListFragment_to_factDetailsFragment"
+            app:destination="@id/factDetailsFragment"
+            app:enterAnim="@anim/from_right"
+            app:exitAnim="@anim/from_left"
+            app:popEnterAnim="@anim/from_right"
+            app:popExitAnim="@anim/from_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/factDetailsFragment"
+        android:name="com.stanroy.doggofacts.view.FactDetailsFragment"
+        android:label="fragment_fact_details"
+        tools:layout="@layout/fragment_fact_details">
+        <argument
+            android:name="dogFact"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_factDetailsFragment_to_factListFragment"
+            app:destination="@id/factListFragment" />
+        <argument
+            android:name="factUpdateDate"
+            app:argType="long" />
+    </fragment>
+</navigation>

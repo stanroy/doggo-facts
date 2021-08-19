@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tv_header_35sp">35sp</dimen>
+    <dimen name="tv_sub_header_18sp">18sp</dimen>
+    <dimen name="tv_text_body_15sp">24sp</dimen>
+    <dimen name="padding_35dp">35dp</dimen>
+    <dimen name="padding_10dp">10dp</dimen>
+    <dimen name="tv_line_spacing_15sp">15sp</dimen>
+    <dimen name="shape_radius_5dp">5dp</dimen>
+</resources>

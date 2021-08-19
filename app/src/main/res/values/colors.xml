@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Colors by functions-->
+
+    <color name="color_primary">@color/middle_blue_green</color>
+    <color name="color_primary_variant">@color/viridian</color>
+
+
+    <color name="color_secondary">@color/uranian_blue</color>
+    <color name="color_secondary_variant">@color/blue_bell</color>
+
+    <!-- Palette-->
+
+    <color name="middle_blue_green">#84DCC6</color>
+    <color name="viridian">#478978</color>
+    <color name="beau_blue">#D6EDFF</color>
+    <color name="uranian_blue">#ACD7EC</color>
+    <color name="blue_bell">#8B95C9</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+</resources>

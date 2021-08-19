@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DoggoFacts</string>
+
+    <string name="fact_template">Fact %d</string>
+    <string name="success_network_response_template">SUCCESS %d: %s</string>
+    <string name="error_network_response_template">ERROR %d: %s</string>
+    <string name="error_no_internet">No Internet Connection</string>
+    <string name="loading_message">Loading…</string>
+    <string name="iv_dog_image_description">Dog Image</string>
+    <string name="tv_fact_header">Fun Fact</string>
+    <string name="tv_error_message">( %s ) \n Application encountered an error, please try to</string>
+    <string name="btn_error_reload">Reload</string>
+    <string name="tool_fact_date">Date updated: %s</string>
+    <string name="tool_fact_body">Ancient Egyptians revered their dogs. When a pet dog would die, the owners shaved off their eyebrows, smeared mud in their hair, and mourned aloud for days.</string>
+    <string name="menu_refresh_title">Refresh</string>
+    <string name="tools_fact_title_id">Fact 1</string>
+
+</resources>
