@@ -45,6 +45,11 @@ If by any chance you lose internet connection during fetching or enctounter any 
 
 After clicking on any of the facts in the list, you will be redirected to the screen which contains details like fact text and fact date.
 
+## Attributions
+
+Dachshund icon - Photo by <a href="https://unsplash.com/@nicole_tarasuk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nicole Tarasuk</a> on <a href="https://unsplash.com/s/photos/doggo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
