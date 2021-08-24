@@ -8,9 +8,9 @@
 
 <p align="row">
   <p align="center">
-    <img src= "https://i.ibb.co/5L0K51z/photo1.png" width="300" >
-    <img src= "https://i.ibb.co/m9TzNFb/photo2.png" width="297" >
-    <img src= "https://i.ibb.co/n8Hh1m6/photo3.png" width="300" >
+    <img src= "https://i.ibb.co/5L0K51z/photo1.png" width="200" >
+    <img src= "https://i.ibb.co/m9TzNFb/photo2.png" width="198" >
+    <img src= "https://i.ibb.co/n8Hh1m6/photo3.png" width="200" >
    </p>
 </p>
 
